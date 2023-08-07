@@ -1,0 +1,24 @@
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyDk4S5HCz_-CRKo8-ZsupFZXxjmO3rNqOo",
+  authDomain: "netflix-clone-e1.firebaseapp.com",
+  databaseURL: "https://netflix-clone-e1-default-rtdb.firebaseio.com",
+  projectId: "netflix-clone-e1",
+  storageBucket: "netflix-clone-e1.appspot.com",
+  messagingSenderId: "339729087977",
+  appId: "1:339729087977:web:69dc5624c5342a99299f78",
+  measurementId: "G-LCT0VC9E27"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
+
+// api ----b3187f78178c3520d0e44395414c1d02
