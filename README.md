@@ -24,3 +24,10 @@ Integration:
 
 Connect the frontend and backend by making API requests from the React components to the Express.js server.
 Use state management libraries like Redux or the React Context API to manage global application state, especially for user authentication and preferences
+
+#------img------#![netflic_cloneimg](https://github.com/paramveer-srmscetr/Netflix_clone/assets/82169480/0b07c278-4fd7-4e33-b166-594a4c41f64b)
+#-----video----#
+
+
+https://github.com/paramveer-srmscetr/Netflix_clone/assets/82169480/21758521-56bc-4997-ba9f-5902e313e3b9
+
